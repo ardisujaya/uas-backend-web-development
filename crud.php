@@ -42,7 +42,7 @@
             <a href="logout.php" class="btn">Logout</a>
             </div>
         </form>
-		<h1>Aplikasi CRUD Toko Buku</h1>
+		<h1>Aplikasi Toko Buku Ardi & Sawal</h1>
 		<div class="row">
 			<div class="col-sm-4">
 				<h3>Form Buku Baru</h3>
